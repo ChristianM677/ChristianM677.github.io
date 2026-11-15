@@ -64,13 +64,7 @@ h1:hover {
     background-repeat: no-repeat;
     background-position: -30px -140px;
     background-size: 130%;
-}
-
-@media screen and (max-width: 1500px){
-    .backg{
-        background-position: -180px 10px;
-        background-size: 350%;
-    }
+    filter: grayscale(30%);
 }
 
 
@@ -131,7 +125,7 @@ q{
 
 /*IMAGES*/
 img {
-    filter: grayscale(70%); /*Gives our images a gray color*/
+    filter: grayscale(35%); /*Gives our images a gray color*/
     border-radius: 5px; 
     max-width: 100%; /*Max width for each image in its container*/
     height: 100%; /*Max height for each image in its container*/
