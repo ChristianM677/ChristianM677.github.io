@@ -63,7 +63,7 @@ h1:hover {
     background-image: url(images/cyber.jpeg);
     background-repeat: no-repeat;
     background-position: -30px -140px;
-    background-size: 130%;
+    background-size: 150%;
     filter: grayscale(30%);
 }
 
